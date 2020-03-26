@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler view</string>
+    <string name="question_number">question number</string>
+    <string name="your_answer">Your Answer</string>
+</resources>
